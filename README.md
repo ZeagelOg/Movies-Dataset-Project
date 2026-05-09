@@ -163,3 +163,35 @@ Remaining columns after drop: **13**
 | Brad Pitt | Moderate | Moderate |
 
 > Leonardo DiCaprio ranked highest in both critic and user review counts among the three actors analyzed.
+
+Presentation Slides.
+
+Slide 1.
+<img width="1299" height="747" alt="image" src="https://github.com/user-attachments/assets/38eadceb-b27b-4ae2-98af-8f06a3479b66" />
+
+Slide 2.
+<img width="1296" height="738" alt="image" src="https://github.com/user-attachments/assets/95bb2612-bbe3-4cf0-82f0-0e216b5b697f" />
+
+Slide 3.
+<img width="1294" height="733" alt="image" src="https://github.com/user-attachments/assets/5c3e2d72-c57e-4416-93a1-b945def822ad" />
+
+Slide 4.
+<img width="1291" height="735" alt="image" src="https://github.com/user-attachments/assets/c68a8b35-95c6-47b0-b0e7-f285c3b9e8be" />
+
+Slide 5
+<img width="1301" height="725" alt="image" src="https://github.com/user-attachments/assets/deba1543-1be2-49b2-8a68-adff277ecf29" />
+
+Slide 6
+<img width="1294" height="744" alt="image" src="https://github.com/user-attachments/assets/634f2f08-7745-413e-baa7-1a41a9fdac68" />
+
+Slide 7
+<img width="1297" height="744" alt="image" src="https://github.com/user-attachments/assets/80d2938a-0326-40c2-88a3-13be772f7780" />
+
+Slide 8
+<img width="1299" height="758" alt="image" src="https://github.com/user-attachments/assets/2e268789-a9b0-431f-b952-0161c9038bdc" />
+
+Slide 9
+<img width="1287" height="715" alt="image" src="https://github.com/user-attachments/assets/3cda100a-b59c-48db-9602-d700fd9069d9" />
+
+Slide 10
+<img width="1290" height="732" alt="image" src="https://github.com/user-attachments/assets/b257774d-f7b1-4edc-9b5b-a40372042cbf" />
